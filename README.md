@@ -2,6 +2,8 @@
 
 Para la esctructura de carpetas
 
-mkdir -p Challange/modules/gke
+mkdir -p Challange/modules
 
-cd Challange/modules/gke
+mkdir -p Challange/gke
+
+cd Challange/
